@@ -1,0 +1,3 @@
+
+### 3. **requirements.txt**
+If you’re only using Python’s built-in libraries, this can stay empty for now. Later, if you add packages (like `rich` for pretty CLI output), you’ll list them here:
